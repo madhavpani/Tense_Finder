@@ -54,7 +54,7 @@ with st.container():
 
     # Youtube link
     with youtube_col:
-        st.link_button('**VIDEO**', icon=':material/slideshow:', url='https://youtu.be/IDHr9Z4Q4iY', help='YOUTUBE')CLE
+        st.link_button('**VIDEO**', icon=':material/slideshow:', url='https://youtu.be/y0swNI7azBw', help='YOUTUBE')CLE
     
     # Hugging Face Space link
     with hfspace_col:
