@@ -58,7 +58,7 @@ with st.container():
     
     # Hugging Face Space link
     with hfspace_col:
-        st.link_button('**HF SPACE**', icon=':material/sentiment_satisfied:', url='https://huggingface.co/spaces/madhav-pani/Obesity_Detector/tree/main', help='HUGGING FACE SPACE')
+        st.link_button('**HF SPACE**', icon=':material/sentiment_satisfied:', url='https://huggingface.co/spaces/madhav-pani/Tense_Lens/tree/main', help='HUGGING FACE SPACE')
 
     # Madee Link
     with madee_col:
@@ -66,7 +66,7 @@ with st.container():
 
     # Repository Link
     with repo_col:
-        st.link_button('**REPO**', icon=':material/code_blocks:', url='https://github.com/madhavpani/Obesity_Detector', help='GITHUB REPOSITORY')
+        st.link_button('**REPO**', icon=':material/code_blocks:', url='https://github.com/madhavpani/Tense_Lens', help='GITHUB REPOSITORY')
 
     # LinkedIn link
     with linkedIn_col:
